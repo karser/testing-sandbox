@@ -951,4 +951,114 @@
       <s:grams>3</s:grams>
     </s:variant>
   </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/9001108433</id>
+    <published>2017-04-25T18:20:30-07:00</published>
+    <updated>2017-04-25T18:20:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/empty-image-product"/>
+    <title>Node.js Hex Decal in Green</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our Node.js Hex Decal is a high quality Vinyl, Permanent Adhesive sticker. </span>Perfect addition to any laptop, phone, and more! </p>
+<p><span>Size: 3" x 3.14"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/9001108432</id>
+      <title>Empty Image Product</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>OJS-Node-GreenDecal</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/9001108434</id>
+    <published>2017-04-25T18:20:30-07:00</published>
+    <updated>2017-04-25T18:20:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/not-url-image-product"/>
+    <title>Node.js Hex Decal in Green</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="undefined"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our Node.js Hex Decal is a high quality Vinyl, Permanent Adhesive sticker. </span>Perfect addition to any laptop, phone, and more! </p>
+<p><span>Size: 3" x 3.14"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/9001108432</id>
+      <title>Not URL Image Product</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>OJS-Node-GreenDecal</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/9001108435</id>
+    <published>2017-04-25T18:20:30-07:00</published>
+    <updated>2017-04-25T18:20:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/empty-string-product"/>
+    <title>Node.js Hex Decal in Green</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src=""></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our Node.js Hex Decal is a high quality Vinyl, Permanent Adhesive sticker. </span>Perfect addition to any laptop, phone, and more! </p>
+<p><span>Size: 3" x 3.14"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/9001108432</id>
+      <title>Empty String Image Product</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>OJS-Node-GreenDecal</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
 </feed>
