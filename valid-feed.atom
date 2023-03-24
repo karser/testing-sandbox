@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://store.nodejs.org/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://store.nodejs.org/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://store.nodejs.org/collections/all.atom"/>
+  <title>Node.js Community Store </title>
+  <updated>2018-11-21T14:43:18-08:00</updated>
+  <author>
+    <name>Node.js Community Store </name>
+  </author>
+  <entry>
+    <id>https://store.nodejs.org/products/1595478278195</id>
+    <published>2018-11-21T14:43:18-08:00</published>
+    <updated>2018-11-21T14:43:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/nodejs-ladies-basic-fine-jersey-tee"/>
+    <title>Node.js Basic Fine Jersey Tee in Black (Fitted)</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/Node_Logo_Tee_L.jpg?v=1542840308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 4.2 Oz. Bella+Canvas Node.js tee is a fan favorite. Features a retail fit, tear-away label, and is side seamed. It's is made of 100% Airlume combed and ring spun cotton, 32 singles. Rep Node.js in style! </p>
+<p> </p>
+<p><br></p>
+<div class="zifyapp-sc" id="zifyapp-sc-4515"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595478278195</id>
+      <title>Small</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-wBLACKTee-S</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595478278195</id>
+      <title>Medium</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-wBLACKTee-M</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595478278195</id>
+      <title>Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-wBLACKTee-L</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595478278195</id>
+      <title>XL</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-wBLACKTee-XL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/1595475591219</id>
+    <published>2018-11-21T14:39:05-08:00</published>
+    <updated>2018-11-21T14:39:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/nodejs-mens-basic-fine-jersey-tee"/>
+    <title>Node.js Basic Fine Jersey Tee in Black (Straight Fit)</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/Node_Logo_Tee.jpg?v=1542840194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 4.2 Oz. Bella+Canvas NodeJS Tee is a fan favorite. It features a retail fit, tear-away label, and is side seamed. It's is made of 100% Airlume combed and ring spun cotton, 32 singles. Rep Node.js in style! </p>
+<p><br></p>
+<div class="zifyapp-sc" id="zifyapp-sc-4514"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595475591219</id>
+      <title>Small</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mBLACKTee-S</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595475591219</id>
+      <title>Medium</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mBLACKTee-M</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595475591219</id>
+      <title>Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mBLACKTee-L</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595475591219</id>
+      <title>XL</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mBLACKTee-XL</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595475591219</id>
+      <title>2XL</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mBLACKTee-2XL</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/1595468251187</id>
+    <published>2018-11-21T14:33:42-08:00</published>
+    <updated>2018-11-21T14:33:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/the-nodejs-pride-tee"/>
+    <title>Node.js Pride Tee in Heathered Teal (Straight Fit)</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/NJS_Pride_tee.jpg?v=1542839891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Enjoy 100% pure tee perfection from the softest most durable 50/50 blend. 4.3 ounce 50/50 ring spun combed cotton/poly, 30 singles. Show off your pride in style! </p>
+<meta charset="utf-8">
+<p><br></p>
+<div class="zifyapp-sc" id="zifyapp-sc-4514"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595468251187</id>
+      <title>Small</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-TEALPrideTee-S</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595468251187</id>
+      <title>Medium</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-TEALPrideTee-M</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595468251187</id>
+      <title>Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-TEALPrideTee-L</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595468251187</id>
+      <title>XL</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-TEALPrideTee-XL</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595468251187</id>
+      <title>2X</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-TEALPrideTee-2X</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/1595457175603</id>
+    <published>2018-11-21T14:28:43-08:00</published>
+    <updated>2018-11-21T14:28:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/the-ladies-b-c-fine-jersey-tee"/>
+    <title>Node.js Fine Jersey Tee in Berry (Fitted)</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/Berry_JS_Tee_L.jpg?v=1542839441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 4.2 Oz. Bella+Canvas Tee is a retail fit tee shirt, featuring a tear-away label, and side seam. It's made of 100% Airlume combed and ring spun cotton, 32 singles. Rep Node.js in style! </p>
+<p><br></p>
+<div class="zifyapp-sc" id="zifyapp-sc-4515"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595457175603</id>
+      <title>Small</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-wPINKTee-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595457175603</id>
+      <title>Medium</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-wPINKTee-M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595457175603</id>
+      <title>Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-wPINKTee-L</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595457175603</id>
+      <title>XL</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-wPINKTee-XL</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/1595451473971</id>
+    <published>2018-11-21T14:21:46-08:00</published>
+    <updated>2018-11-21T14:21:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/the-mens-b-c-fine-jersey-tee-nodejs-tee"/>
+    <title>Node.js Fine Jersey Tee in Berry (Straight Fit)</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/Berry_JS_Te.jpg?v=1542839212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This 4.2 Oz. Bella+Canvas Tee is a retail fit tee shirt, featuring a tear-away label, and side seam. It's made of 100% Airlume combed and ring spun cotton, 32 singles. Rep Node.js in style! </p>
+<p> </p>
+<div class="zifyapp-sc" id="zifyapp-sc-4514"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595451473971</id>
+      <title>Small</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mPINKTee-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595451473971</id>
+      <title>Medium</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mPINKTee-M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595451473971</id>
+      <title>Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mPINKTee-L</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595451473971</id>
+      <title>XL</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mPINKTee-XL</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595451473971</id>
+      <title>2X</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mPINKTee-2XL</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/1595438727219</id>
+    <published>2018-11-21T14:15:00-08:00</published>
+    <updated>2018-11-21T14:15:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/next-level-triblend-racerback-tank-dress"/>
+    <title>Next Level Triblend Racerback Tank Dress in Vintage Black</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/Node_Racerback.jpg?v=1542838710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Next Level Triblend Racerback Tank Dress is a fan favorite. 32 Singles; Fabric Laundered; Racer back styling; Straight hemmed bottom; Tear-away label; Sideseamed; Rep Node.js in style! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595438727219</id>
+      <title>Small</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-RacerbackDress-S</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595438727219</id>
+      <title>Medium</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-RacerbackDress-M</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595438727219</id>
+      <title>Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-RacerbackDress-L</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595438727219</id>
+      <title>XL</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-RacerbackDress-XL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/1595428732979</id>
+    <published>2018-11-21T14:06:26-08:00</published>
+    <updated>2018-11-21T14:06:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/custom-dicut-decal"/>
+    <title>Pride Dicut Decal</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/Decal_1_mu.png?v=1547235714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Show off your pride with this custom vinyl decal! Perfect addition to any laptop, phone, and more! </p>
+<p>Size: 2" x 2"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595428732979</id>
+      <title>with border</title>
+      <s:price currency="USD">0.50</s:price>
+      <s:sku>OJS-Node-PrideDecalBorder</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595428732979</id>
+      <title>no border</title>
+      <s:price currency="USD">0.50</s:price>
+      <s:sku>OJS-Node-PrideDecalSolid</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/1595419033651</id>
+    <published>2018-11-21T14:03:08-08:00</published>
+    <updated>2018-11-21T14:03:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/nodjs-lapel-pin"/>
+    <title>Node.js Lapel Pin</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/0776818_v1.png?v=1542998011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Custom Lapel pin is a must have to show off your Node.js pride.</p>
+<p>Size: 1" wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595419033651</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>OJS-Node-LapelPin</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/1595412316211</id>
+    <published>2018-11-21T13:57:49-08:00</published>
+    <updated>2018-11-21T13:57:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/js-pink-mug"/>
+    <title>JS Pink Mug</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/Mug.jpg?v=1542837586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">11 Oz. Pink 4 color process C-handle mug</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/1595412316211</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>OJS-Node-PinkMug</s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/7875775760</id>
+    <published>2017-04-30T17:27:49-07:00</published>
+    <updated>2017-04-30T17:27:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/node-js-womens-shirt-2-canvas-triblend-emerald-heather"/>
+    <title>Node.js Tee in Emerald (Fitted)</title>
+    <s:type></s:type>
+    <s:vendor>StartupThreads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/1xrzdkjRbiJ4qjxqAw3a.png?v=1482338101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StartupThreads<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Features a uniquely soft triblend heather fabric, modern feminine fit, crew neck and short sleeves; sideseamed, semirelaxed fit. Rep Node.js in style! </span></p>
+<p> </p>
+<div class="zifyapp-sc" id="zifyapp-sc-4515"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/7875775760</id>
+      <title>Women&apos;s Small</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/7875775760</id>
+      <title>Women&apos;s Medium</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/7875775760</id>
+      <title>Women&apos;s Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/7875775760</id>
+      <title>Women&apos;s Extra Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/7875775760</id>
+      <title>Women&apos;s Double Extra Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/6574118021</id>
+    <published>2017-04-30T17:27:49-07:00</published>
+    <updated>2017-04-30T17:27:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/nodejs-shirt-2"/>
+    <title>Node.js Tee in Emerald (Straigh Fit)</title>
+    <s:type></s:type>
+    <s:vendor>StartupThreads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/mens_black.jpg?v=1482334601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StartupThreads<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p dir="ltr">Features a uniquely soft tri-blend fabric, relaxed fit, crew neck and short sleeves Side-seamed, retail fit, Unisex sizing. Rep Node.js in style! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/6574118021</id>
+      <title>Men&apos;s Extra Small</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mEMERLTee-XS</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/6574118021</id>
+      <title>Men&apos;s Small</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mEMERLTee-S</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/6574118021</id>
+      <title>Men&apos;s Medium</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mEMERLTee-M</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/6574118021</id>
+      <title>Men&apos;s Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mEMERLTee-L</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/6574118021</id>
+      <title>Men&apos;s Extra Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mEMERLTee-XL</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/6574118021</id>
+      <title>Men&apos;s Double Extra Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mEMERLTee-2XL</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/6574118021</id>
+      <title>Men&apos;s Triple Extra Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mEMERLTee-3XL</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/6574117637</id>
+    <published>2017-04-30T17:27:49-07:00</published>
+    <updated>2017-04-30T17:27:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/nodejs-shirt-1"/>
+    <title>Node.js Tee in Lime (Straight Fit)</title>
+    <s:type></s:type>
+    <s:vendor>StartupThreads</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/abm15q47RGaBLT0c4OBx.png?v=1477652944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>StartupThreads<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p dir="ltr"><span>Features a uniquely soft tri-blend fabric, relaxed fit, crew neck and short sleeves Side-seamed, retail fit, Unisex sizing. Rep Node.js in style! </span></p>
+<div class="zifyapp-sc" id="zifyapp-sc-4514"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/6574117637</id>
+      <title>Men&apos;s Extra Small</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mLIMETee-XS</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/6574117637</id>
+      <title>Men&apos;s Small</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mLIMETee-S</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/6574117637</id>
+      <title>Men&apos;s Medium</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mLIMETee-M</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/6574117637</id>
+      <title>Men&apos;s Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mLIMETee-L</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/6574117637</id>
+      <title>Men&apos;s Extra Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mLIMETee-XL</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/6574117637</id>
+      <title>Men&apos;s Double Extra Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mLIMETee-2XL</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.nodejs.org/products/6574117637</id>
+      <title>Men&apos;s Triple Extra Large</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-mLIMETee-3XL</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/9001260368</id>
+    <published>2017-04-25T18:27:34-07:00</published>
+    <updated>2017-04-25T18:27:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/the-node-js-icon-water-bottle"/>
+    <title>The Node.js Icon Water Bottle</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/bottles_2.jpg?v=1493170224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Keep hydrated with our awesome Node.js icon water bottle! Food-grade 18/8 stainless steel. 100% reusable and recyclable and 100% free from toxin, BPA, phthalate and PVC.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/9001260368</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-IconWB</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/9001246160</id>
+    <published>2017-04-25T18:27:34-07:00</published>
+    <updated>2017-04-25T18:27:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/the-node-js-foundation-water-bottle"/>
+    <title>The Node.js Foundation Water Bottle</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/bottles_1.jpg?v=1493170179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;">
+<meta charset="utf-8">
+<span>Keep hydrated with our awesome Node.js Foundation water bottle! Food-grade 18/8 stainless steel. 100% reusable and recyclable and 100% free from toxin, BPA, phthalate and PVC.</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/9001246160</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>OJS-Node-FoundWB</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/9001176336</id>
+    <published>2017-04-25T18:20:30-07:00</published>
+    <updated>2017-04-25T18:20:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/node-js-decal-pack"/>
+    <title>Node.js Decal Pack</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/Gn-Gr_Decal_Pack.jpg?v=1493169952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Node js Hex-Decal pack comes with 10 vinyl permanent adhesive decals.</p>
+<p>Qty: 5 - Green Hex Decals (Size: 3" x 3.14")</p>
+<p>Qty: 5 - Grey Hex Decals <span>(Size: 3" x 3.14")</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/9001176336</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>Decal-Grn-Gry 10Pk</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/9001155472</id>
+    <published>2017-04-25T18:20:30-07:00</published>
+    <updated>2017-04-25T18:20:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/hex-clear-node-js-decal"/>
+    <title>Node.js Hex Decal in Clear</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/clear.png?v=1547235657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our Node.js Hex Decal is a high quality Poly, Permanent Adhesive sticker. </span>Perfect addition to any laptop, phone, and more! </p>
+<p><span>Size: 3" x 3.14"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/9001155472</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>OJS-Node-ClearDecal</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/9001122832</id>
+    <published>2017-04-25T18:20:30-07:00</published>
+    <updated>2017-04-25T18:20:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/hex-grey-node-js-decal"/>
+    <title>Node.js Hex Decal in Grey</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/black.png?v=1547235693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our Node.js Hex Decal is a high quality Vinyl, Permanent Adhesive sticker. </span>Perfect addition to any laptop, phone, and more! </p>
+<p><span>Size: 3" x 3.14"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/9001122832</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>OJS-Node-GreyDecal</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.nodejs.org/products/9001108432</id>
+    <published>2017-04-25T18:20:30-07:00</published>
+    <updated>2017-04-25T18:20:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.nodejs.org/products/hex-green-node-js-decal"/>
+    <title>Node.js Hex Decal in Green</title>
+    <s:type></s:type>
+    <s:vendor>Node.js Community Store </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1527/3235/products/green.png?v=1547235675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Node.js Community Store <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our Node.js Hex Decal is a high quality Vinyl, Permanent Adhesive sticker. </span>Perfect addition to any laptop, phone, and more! </p>
+<p><span>Size: 3" x 3.14"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.nodejs.org/products/9001108432</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>OJS-Node-GreenDecal</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+</feed>
